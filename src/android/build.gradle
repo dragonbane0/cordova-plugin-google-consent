@@ -5,5 +5,5 @@ repositories {
 }
 
 dependencies {
-    implementation 'com.github.santimar:googleads-consent-sdk-android:master-SNAPSHOT'
+    implementation 'com.github.dragonbane0:googleads-consent-sdk-android:master-SNAPSHOT'
 }
