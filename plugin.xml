@@ -28,7 +28,7 @@
 
 		<source-file src="src/android/Consent.java" target-dir="src/ch/herrmanntech/cordova/consent/" />
 
-		<framework src="com.google.android.ads.consent:consent-library:+" />
+		<framework src="src/android/build.gradle" custom="true" type="gradleReference" />" />
 
 	</platform>
 
