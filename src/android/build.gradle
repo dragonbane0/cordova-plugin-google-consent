@@ -1,9 +1,9 @@
 repositories {
     maven {
-        url "https://maven.google.com"
+        url "https://jitpack.io"
     }
 }
 
 dependencies {
-    implementation 'com.google.android.ads.consent:consent-library:+'
+    implementation 'com.github.santimar:googleads-consent-sdk-android'
 }
